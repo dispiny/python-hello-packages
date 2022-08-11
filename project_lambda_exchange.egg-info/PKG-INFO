@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: project-lambda-exchange
+Version: 1.0.2
+Summary: This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
+Home-page: https://github.com/dispiny/python-hello-packages
+Author: Jongmin Park
+Author-email: jongmin.park@samsung.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
